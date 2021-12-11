@@ -47,6 +47,7 @@ let
     "homebrew/services"
   ];
   user_brew_casks = [
+    "alfred"
     "docker"
     "eloston-chromium"
     "firefox-developer-edition"
